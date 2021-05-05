@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "../Posenet Project 1,2,and 3"
+		},
+		{
+			"path": "../project-113"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "clown-nose-filter-web-app"
+    }
+}
